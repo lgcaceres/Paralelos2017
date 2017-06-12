@@ -55,7 +55,7 @@ int main(int argc,char* argv[])
 {
 
 	int thread_count = strtol(argv[1],NULL,10);
-	int n_elems = 20;
+	int n_elems = 10000000;
 	int my_size = n_elems*sizeof(int);
 	int* vec = (int*) malloc(my_size);
 	fill_vec(vec,n_elems);
