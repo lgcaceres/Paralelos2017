@@ -1,0 +1,27 @@
+
+
+resulados cuda CON memoria compartida tile 70
+-----------------
+
+elapsed_time 70 X 70, tam=2000  : 0.002431999891996
+elapsed_time 70 X 70, tam=4000  : 0.002431999891996
+elapsed_time 70 X 70, tam=6000  : 0.002400000113994
+elapsed_time 70 X 70, tam=8000  : 0.002431999891996
+elapsed_time 70 X 70, tam=10000 : 0.002400000113994
+
+
+resulados cuda SIN memoria compartida
+-----------------
+elapsed_time 70 X 70, tam=2000  : 0.002400000113994
+elapsed_time 70 X 70, tam=4000  : 0.002400000113994
+elapsed_time 70 X 70, tam=6000  : 0.002431999891996
+elapsed_time 70 X 70, tam=8000  : 0.002431999891996
+elapsed_time 70 X 70, tam=10000 : 0.002431999891996
+
+
+
+
+
+
+
+

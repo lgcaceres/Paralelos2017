@@ -1,6 +1,6 @@
 #!/bin/bash
 ### Job name
-#PBS -N ex1
+#PBS -N countluis
 ### Max run time
 ###PBS -l walltime=00:00:10
 ### Queue name
